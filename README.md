@@ -1,5 +1,3 @@
 # ansible-config-mgt
 
-Adding first line to jenkins automatically.
-
-This is additional job
+This is a test configuration for jenkins-ansible
